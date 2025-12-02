@@ -1,0 +1,17 @@
+{
+    "storage_bytes": {
+        "euler": 24,
+        "axis_angle": 24,
+        "quaternion": 32,
+        "rotation_matrix": 72,
+        "exponential_map": 24,
+        "6d_continuous": 48,
+        "matrix_fisher": 72
+    },
+    "evaluation_params": {
+        "num_trials": 1000,
+        "interpolation_points": 100,
+        "derivative_samples": 50,
+        "batch_size": 100
+    }
+}

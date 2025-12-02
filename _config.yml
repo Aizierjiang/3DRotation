@@ -1,0 +1,68 @@
+# Jekyll configuration for GitHub Pages
+theme: jekyll-theme-cayman
+title: "3D Rotation Representations"
+description: "Mathematical Foundations and Comparative Analysis of SO(3) Rotation Representations"
+
+# GitHub Pages settings
+baseurl: "/3DRotation"
+url: "https://aizierjiang.github.io"
+
+# Repository information
+repository: aizierjiang/3DRotation
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+# Plugins
+plugins:
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-titles-from-headings
+  - jekyll-github-metadata
+
+# Relative links settings
+relative_links:
+  enabled: true
+  collections: true
+
+# Titles from headings
+titles_from_headings:
+  enabled: true
+  strip_title: false
+  collections: true
+
+# Optional front matter
+optional_front_matter:
+  remove_originals: false
+
+# Exclude files from processing
+exclude:
+  - "*.py"
+  - __pycache__/
+  - "*.pyc"
+  - .gitignore
+  - LICENSE
+  - .git/
+  - .github/
+  - venv/
+  - env/
+
+# Include files
+include:
+  - README.md
+  - CITATION.cff
+  - robots.txt
+  - requirements.txt
+  - sitemap.xml
+
+# GitHub metadata
+github:
+  repository_name: 3DRotation
+  owner_name: aizierjiang
+  is_project_page: true
+  show_downloads: false

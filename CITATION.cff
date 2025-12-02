@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: article
+title: "Representations of 3D Rotations: Mathematical Foundations and Comparative Analysis"
+authors:
+  - family-names: "Aiersilan"
+    given-names: "Aizierjiang"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Liu"
+    given-names: "Haochen"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Hahn"
+    given-names: "James"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+version: 1.0.0
+date-released: 2025-11-17
+url: "https://github.com/aizierjiang/3DRotation"
+repository-code: "https://github.com/aizierjiang/3DRotation"
+license: MIT
+keywords:
+  - rotation representations
+  - SO(3)
+  - quaternions
+  - computer graphics
+  - robotics
+  - machine learning
+abstract: >
+  A comparative study of rotation representations for the special 
+  orthogonal group SO(3), examining mathematical foundations, 
+  computational properties, and practical applications in 
+  computer graphics, robotics, and machine learning.
+preferred-citation:
+  type: article
+  title: "Representations of 3D Rotations: Mathematical Foundations and Comparative Analysis"
+  authors:
+    - family-names: "Aiersilan"
+      given-names: "Aizierjiang"
+    - family-names: "Liu"
+      given-names: "Haochen"
+    - family-names: "Hahn"
+      given-names: "James"
+  year: 2025
+  url: "https://arxiv.org/COMING_SOON"
+  journal: "arXiv preprint"
+  notes: "Preprint available at https://arxiv.org/COMING_SOON"
