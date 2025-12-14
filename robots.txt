@@ -7,8 +7,6 @@ Allow: /
 # Sitemap location (GitHub Pages will generate this automatically)
 Sitemap: https://aizierjiang.github.io/3DRotation/sitemap.xml
 
-# Crawl-delay for polite bots (optional)
-Crawl-delay: 1
 
 # Disallow crawling of specific directories if needed
 # Uncomment and modify as needed:
