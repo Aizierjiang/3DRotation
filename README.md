@@ -1,6 +1,6 @@
 # Representations of 3D Rotations: Mathematical Foundations and Comparative Analysis
 
-[![Paper](https://img.shields.io/badge/arXiv-Coming%20Soon-b31b1b.svg)](https://arxiv.org/COMING_SOON)
+[![Paper](https://img.shields.io/badge/arXiv-Coming%20Soon-b31b1b.svg)](https://arxiv.org/2605.08086)
 [![Python](https://img.shields.io/badge/Python-3.12-green.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
@@ -340,7 +340,7 @@ If you find this work useful in your research, please consider citing:
   author={Aizierjiang Aiersilan, Haochen Liu, James Hahn},
   journal={arXiv preprint},
   year={2025},
-  url={https://arxiv.org/COMING_SOON}
+  url={https://arxiv.org/2605.08086}
 }
 ```
 
